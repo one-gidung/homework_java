@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 // 카페 음료 주문 접수
 // 오버라이딩 -> 배달비
+// 추살클래스, 메소드로 오버라이딩 상속까지 한 번에
 // 예외처리 -> hot, ice
 
 public class DeliverySystem {
