@@ -5,6 +5,7 @@ import java.util.Scanner;
 // 오버라이딩 -> 배달비
 // 추살클래스, 메소드로 오버라이딩 상속까지 한 번에
 // 예외처리 -> hot, ice
+
 abstract class Calculator {
 	public abstract int add(int a, int b);
 }
